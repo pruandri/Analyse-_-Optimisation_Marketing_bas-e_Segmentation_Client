@@ -1,0 +1,87 @@
+RECOMMANDATIONS PAR SEGMENT
+==================================================
+
+CLUSTER 0 - Jeunes Économes
+------------------------------
+SWOT ANALYSIS:
+
+Forces:
+  • Segment important (383 clients)
+
+Faiblesses:
+  • Récence élevée (30 jours)
+  • Faible valeur par client (48€)
+
+Opportunités:
+  • Potentiel de croissance avec l'âge
+  • Réceptif aux innovations digitales
+  • Potentiel d'augmentation de la fréquence
+
+Menaces:
+  • Concurrence accrue
+  • Évolution des besoins
+
+RECOMMENDATIONS STRATÉGIQUES:
+  1. 💰 Stratégie Prix: Promotions et offres économiques
+  2. 📦 Bundles: Packages à prix attractifs
+  3. 🎁 Fidélisation: Programme de points et cashback
+  4. 📧 Activation: Campagnes de réactivation ciblées
+  5. 🎯 Triggers: Notifications personnalisées
+  6. 📱 Digital-first: Campagnes sur réseaux sociaux
+  7. 🎮 Gamification: Expériences interactives
+
+==================================================
+
+CLUSTER 1 - Seniors Moyens
+------------------------------
+SWOT ANALYSIS:
+
+Forces:
+  • Haute fréquence d'achat (8.0 transactions)
+  • Segment important (369 clients)
+
+Faiblesses:
+  • Faible valeur par client (92€)
+
+Opportunités:
+  • Personnalisation des offres
+  • Amélioration de l'expérience client
+
+Menaces:
+  • Concurrence accrue
+  • Évolution des besoins
+
+RECOMMENDATIONS STRATÉGIQUES:
+  1. 📞 Contact direct: Service client personnalisé
+  2. 📧 Email marketing: Communication traditionnelle
+
+==================================================
+
+CLUSTER 2 - Adultes Premium
+------------------------------
+SWOT ANALYSIS:
+
+Forces:
+  • Forte valeur client (CA moyen: 281€)
+  • Haute fréquence d'achat (12.0 transactions)
+
+Faiblesses:
+  • Récence élevée (32 jours)
+
+Opportunités:
+  • Personnalisation des offres
+  • Amélioration de l'expérience client
+
+Menaces:
+  • Concurrence accrue
+  • Évolution des besoins
+
+RECOMMENDATIONS STRATÉGIQUES:
+  1. 🎯 Stratégie Premium: Offres exclusives et services VIP
+  2. 📈 Upselling: Proposer des produits haut de gamme
+  3. 🤝 Relation personnalisée: Account manager dédié
+  4. 🔄 Automatisation: Abonnements et commandes récurrentes
+  5. ⭐ Fidélité: Récompenses pour la régularité
+
+==================================================
+
